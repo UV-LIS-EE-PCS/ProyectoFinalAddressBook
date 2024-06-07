@@ -1,0 +1,4 @@
+Diego;Jair;Alamo 281;Coatzacoalcos;Veracruz;96400;92114192336;spiderdiego8@gmail.com
+Yahir;Zapata;Tesoro 123;Coatzacoalcos;Veracruz;98201;9211321920;zapatitauwu@gmail.com
+Alexis;Nava;Oriente 3;Coatzacoalcos;Veracruz;98207;9228242012;jodidomoya@gmail.com
+Rodolfo;Anguiano;Juan escutia 102;Coatzacoalcos;Veracruz;98320;9282312312;polloanguiano@gmail.com
